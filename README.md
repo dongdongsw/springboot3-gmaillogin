@@ -1,5 +1,5 @@
 # springboot3-gmaillogin
-#I added only the necessary things to Build.gradle, so you can add anything else yourself.
+I added only the necessary things to Build.gradle, so you can add anything else yourself.
 
  plugins {
     
