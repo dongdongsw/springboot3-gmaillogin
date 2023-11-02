@@ -1,4 +1,6 @@
 # springboot3-gmaillogin
+#I added only the necessary things to Build.gradle, so you can add anything else yourself.
+
  plugins {
     
     id 'org.springframework.boot' version '3.1.4'
