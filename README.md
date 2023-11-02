@@ -1,4 +1,15 @@
 # springboot3-gmaillogin
+# plugins {
+    
+    id 'org.springframework.boot' version '3.1.4'
+   
+}
+
+java {
+    sourceCompatibility = '17'
+}
+
+
 #dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
