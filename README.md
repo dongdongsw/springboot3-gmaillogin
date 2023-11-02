@@ -6,7 +6,9 @@
 }
 
 java {
+
     sourceCompatibility = '17'
+    
 }
 
 
